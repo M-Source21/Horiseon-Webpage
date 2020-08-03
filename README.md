@@ -12,5 +12,5 @@ Updated the copy path for the images so they could all come from one folder
 
 Cleaned up the spacing on index.html and included commentary for easier future use 
 
-
+Url for website: file:///C:/Users/mabar/Development/Homework/Horiseon-Webpage/index.html
 
